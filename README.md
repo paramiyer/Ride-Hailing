@@ -1,7 +1,7 @@
 # Ride-Hailing
-# Predicting Customer Rating Probability – Careem Data Science Challenge Submission
+# Predicting Customer Rating Probability – Data Science Challenge Submission
 
-This notebook presents a solution to a real-world data science case submitted for a Careem interview process. The task involves predicting the probability that a user will **rate a trip**, based on historical trip and customer data.
+This notebook presents a solution to a real-world data science case submitted for an interview process. The task involves predicting the probability that a user will **rate a trip**, based on historical trip and customer data.
 
 ## 📌 Problem Statement
 
